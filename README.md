@@ -6,6 +6,7 @@ El Amigo Secreto es un juego que hara un sorteo aleatorio para que un grupo de p
 ## Instrucciones
 
 - **Ingresar los nombres:** Debes ingresar uno a uno los nombres de tus amigos en la plataforma y hacer clic en el botón "Añadir".
+  
   ![Visualizacion Lista de amigos](https://github.com/user-attachments/assets/9c6ee697-f7f9-4edf-895a-183c02db4b49)
 - **Verificar la lista:** Asegúrate de que todos los nombres estén ingresados correctamente.
 - **Realizar el sorteo:** Una vez que todos los nombres estén ingresados, haz clic en "Sortear Amigo" y se mostrará el nombre de la persona seleccionada.
